@@ -1,0 +1,16 @@
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\bin\Debug\net5.0\ConsoleApplicationOfSudentAndScores.exe
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\bin\Debug\net5.0\ConsoleApplicationOfSudentAndScores.deps.json
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\bin\Debug\net5.0\ConsoleApplicationOfSudentAndScores.runtimeconfig.json
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\bin\Debug\net5.0\ConsoleApplicationOfSudentAndScores.runtimeconfig.dev.json
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\bin\Debug\net5.0\ConsoleApplicationOfSudentAndScores.dll
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\bin\Debug\net5.0\ref\ConsoleApplicationOfSudentAndScores.dll
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\bin\Debug\net5.0\ConsoleApplicationOfSudentAndScores.pdb
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\obj\Debug\net5.0\ConsoleApplicationOfSudentAndScores.csprojAssemblyReference.cache
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\obj\Debug\net5.0\ConsoleApplicationOfSudentAndScores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\obj\Debug\net5.0\ConsoleApplicationOfSudentAndScores.AssemblyInfoInputs.cache
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\obj\Debug\net5.0\ConsoleApplicationOfSudentAndScores.AssemblyInfo.cs
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\obj\Debug\net5.0\ConsoleApplicationOfSudentAndScores.csproj.CoreCompileInputs.cache
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\obj\Debug\net5.0\ConsoleApplicationOfSudentAndScores.dll
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\obj\Debug\net5.0\ref\ConsoleApplicationOfSudentAndScores.dll
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\obj\Debug\net5.0\ConsoleApplicationOfSudentAndScores.pdb
+C:\Users\JAFAR LAWAL\Desktop\Db$FileAssessment\ConsoleApplicationOfSudentAndScores\obj\Debug\net5.0\ConsoleApplicationOfSudentAndScores.genruntimeconfig.cache
